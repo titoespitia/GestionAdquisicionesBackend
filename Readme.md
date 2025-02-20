@@ -48,7 +48,7 @@ El sistema está diseñado con **arquitectura limpia** y usa una **base de datos
 
 ### **2️⃣ Clonar el Repositorio**
 ```sh
-git clone https://github.com/tuusuario/gestion-adquisiciones.git
+git clone https://github.com/titoespitia/GestionAdquisicionesBackend.git
 cd gestion-adquisiciones
 ```
 
